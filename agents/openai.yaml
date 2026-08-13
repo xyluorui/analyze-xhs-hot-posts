@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书热门帖分析"
+  short_description: "采集并分析小红书关键词热门笔记，输出排行、数据与创作洞察"
+  default_prompt: "使用 $analyze-xhs-hot-posts 分析指定关键词近半年的小红书热门帖子。"
